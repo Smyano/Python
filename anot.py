@@ -53,4 +53,6 @@
 # a = math.floor(raiz)
 # print (f"a raiz quadrada de {num} são {a}")
 
+# .limit_denominator() usado para import fraction
+
 
