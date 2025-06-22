@@ -56,3 +56,6 @@
 # .limit_denominator() usado para import fraction
 
 
+# [] > serve para criar listas
+
+
