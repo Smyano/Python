@@ -37,4 +37,20 @@
 # 3° *, /, //, %;
 # 4° +, -;
 
+# biblioteca import MACH:
+# from math import " # , # " (importar somente o tipo especifico)
+# ceil (arredonda +)
+# floor (arredonda -)
+# trunc (sem arredondamento)
+# pow(potência)
+# sqrt(raiz quadrada)
+# factorial (fatorial "!")
+
+# aula 8:
+import math
+num = int(input("digite um número "))
+raiz = math.sqrt(num) 
+a = math.floor(raiz)
+print (f"a raiz quadrada de {num} são {a}")
+
 
