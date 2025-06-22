@@ -47,10 +47,10 @@
 # factorial (fatorial "!")
 
 # aula 8:
-import math
-num = int(input("digite um número "))
-raiz = math.sqrt(num) 
-a = math.floor(raiz)
-print (f"a raiz quadrada de {num} são {a}")
+# import math
+# num = int(input("digite um número "))
+# raiz = math.sqrt(num) 
+# a = math.floor(raiz)
+# print (f"a raiz quadrada de {num} são {a}")
 
 
